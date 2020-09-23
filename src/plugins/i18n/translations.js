@@ -1,5 +1,5 @@
 const translations = {
-  en: {}
+  en: {},
 };
 
 export default translations;

@@ -3,14 +3,14 @@ const dateTimeFormats = {
     short: {
       day: "numeric",
       year: "numeric",
-      month: "short"
+      month: "short",
     },
     long: {
       year: "numeric",
       month: "long",
-      day: "numeric"
-    }
-  }
+      day: "numeric",
+    },
+  },
 };
 
 export default dateTimeFormats;
