@@ -42,11 +42,11 @@ export default {
   name: "App",
 
   components: {
-    HelloWorld
+    HelloWorld,
   },
 
   data: () => ({
     //
-  })
+  }),
 };
 </script>
